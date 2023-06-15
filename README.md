@@ -1,4 +1,4 @@
-<sub>Print('Hello World!')</sub>
+<sup>Print('Hello World!')</sup>
 
 Naahh, sorry.
 
