@@ -23,6 +23,8 @@ The purpose of this dashboard is to monitor the month-by-month and day-by-day of
 
 I have added filters for the selected date range at Selected_Date_1 and Selected_Date_2. This filters allowing users to choose their preferred dates. 
 
+> More to come!!!
+
 # Tableau Dashboard
 
 > Cooming Soon! Under Construction
@@ -34,4 +36,4 @@ Python file: [`scrapping_bon_jovi_itunes_data.py`](https://github.com/novrizyand
 
 Result file: [`bon_jovi_itunes_data.csv`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/bon_jovi_itunes_data.csv)
 
-> Cooming Soon! Under Construction
+> More to come!!!
