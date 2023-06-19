@@ -25,10 +25,11 @@ I have added filters for the selected date range at Selected_Date_1 and Selected
 
 # Tableau Dashboard
 
-Cooming Soon! Under Construction
+> Cooming Soon! Under Construction
 
 # Python
 
 ### **Scrapping Data** 
-> [(Python file)]([https://docs.google.com/spreadsheets/d/1pVRCUg16K7hLXssFU7R3i1hlsikoWBowzTIAyMN8Jgc/edit#gid=2115625167](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/scrapping_bon_jovi_itunes_data.py))
-<!-- Scrapping itunes data -->
+Python file: [`scrapping_bon_jovi_itunes_data.py`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/scrapping_bon_jovi_itunes_data.py)
+
+> Cooming Soon! Under Construction
