@@ -32,4 +32,6 @@ I have added filters for the selected date range at Selected_Date_1 and Selected
 ### **Scrapping Data** 
 Python file: [`scrapping_bon_jovi_itunes_data.py`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/scrapping_bon_jovi_itunes_data.py)
 
+Result file: [`bon_jovi_itunes_data.csv`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/bon_jovi_itunes_data.csv)
+
 > Cooming Soon! Under Construction
