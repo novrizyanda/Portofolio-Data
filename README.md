@@ -27,7 +27,12 @@ I have added filters for the selected date range at Selected_Date_1 and Selected
 
 # Tableau Dashboard
 
-> Cooming Soon! Under Construction
+### **Hotel Reservation Performance Tableau Dashboard** 
+[(Tableau Link)](https://public.tableau.com/app/profile/novrizyanda.affan/viz/HoterReservationPerformance/Dashboard1)
+
+The dashboard provide a comprehensive overview of the performance of a hotel's booking activities. It offers a visually appealing and user-friendly interface that allows stakeholders to analyze key metrics, identify trends, and make data-driven decisions to optimize their strategies.
+
+> More to come!!!
 
 # Python
 
