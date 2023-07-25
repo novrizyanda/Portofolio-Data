@@ -36,9 +36,16 @@ The dashboard provide a comprehensive overview of the performance of a hotel's b
 
 # Python
 
+### **e-commerce performance analysis** 
+Python file: [`e-commerce performance analysis.ipynb`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/e-commerce%20performance%20analysis.ipynb)
+
+This project aims to evaluate shipping performance by analyzing shipping types and the top 10 countries in terms of key metrics such as shipping cost, aging, and profit. By providing a comprehensive view of shipping performance, this analysis will enable businesses to identify areas for improvement and optimize their shipping strategies. 
+
 ### **Scrapping Data** 
 Python file: [`scrapping_bon_jovi_itunes_data.py`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/scrapping_bon_jovi_itunes_data.py)
 
 Result file: [`bon_jovi_itunes_data.csv`](https://github.com/novrizyanda/The-Data-Analyst-Gymnasium/blob/main/bon_jovi_itunes_data.csv)
+
+This project showcases a Python script for web scraping Bon Jovi's data from iTunes. It is designed to extract essential information about the Artist Name, Track Name, Track Price, Release Date, and many more from the iTunes website. The scraped data can be utilized for various purposes, such as conducting analyses, building visualizations, or simply satisfying one's curiosity about Bon Jovi's music.
 
 > More to come!!!
